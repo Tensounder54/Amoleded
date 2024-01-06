@@ -74,6 +74,12 @@ body {
     background-color: Black;
 }
 
+/* Chat Header */
+
+.ScreenHeader-container {
+    background-color: Black;
+}
+
 .ChatChannelInputStatusBar-container {
     background-color: Black;
     border-right: 1px solid var(--contrast);
@@ -100,10 +106,19 @@ body {
     border: 1px solid var(--contrast);
 }
 
-/* Chat Header */
+/* Chat Data */
 
-.ScreenHeader-container {
+.ChatV2MessageContents-container-highlighted .ParagraphRenderer {
+    background-color: rgba(248,214,76,.07);
+}
+
+/* .ChatV2Message-container:hover .SlateEditorContext-container {
+    background-color: rgba(41,43,50,.4);
+} */
+
+.MarkRenderer-read-only {
     background-color: Black;
+    border: 2px solid var(--contrast);
 }
 
 /* Text Boxes */
