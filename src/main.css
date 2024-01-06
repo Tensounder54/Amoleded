@@ -8,7 +8,7 @@ body {
 
 .NavV4Sidebar-container {
     background-color: Black;
-    border-right: 1px solid rgba(163,163,172,.2);
+    border-right: 1px solid var(--contrast);
 }
 
 .NavV4SidebarFooter-container {
@@ -18,7 +18,7 @@ body {
 /* Short Server Bar And Channels Lists  Combined*/
 
 .WebAppSidebar-container {
-    border-right: 1px solid rgba(163,163,172,.2);
+    border-right: 1px solid var(--contrast);
 }
 
 /* Short Server Bar */
@@ -35,8 +35,8 @@ body {
 
 .TeamNavMenu-container {
     background-color: Black;
-    border-right: 1px solid rgba(163,163,172,.2);
-    border-left: 1px solid rgba(163,163,172,.2);
+    border-right: 1px solid var(--contrast);
+    border-left: 1px solid var(--contrast);
 }
 
 .NavV4Footer-footer-content {
@@ -49,14 +49,14 @@ body {
 
 .NavV4FooterGlobalContextDisplay-teams-wrapper {
     background-color: Black;
-    border-top: 1px solid rgba(163,163,172,.2);
+    border-top: 1px solid var(--contrast);
 }
 
 .NavV4Footer-right {
     background-color: Black;
-    border-top: 1px solid rgba(163,163,172,.2);
-    border-right: 1px solid rgba(163,163,172,.2);
-    border-left: 1px solid rgba(163,163,172,.2);
+    border-top: 1px solid var(--contrast);
+    border-right: 1px solid var(--contrast);
+    border-left: 1px solid var(--contrast);
 }
 
 /* Context Menues */
@@ -67,7 +67,7 @@ body {
 
 .QuickActionBar-container {
     background-color: Black;
-    border: 1px solid rgba(163,163,172,.2);
+    border: 1px solid var(--contrast);
 }
 
 .ChannelHeaderMoreOptionsMenu-container {
@@ -76,9 +76,9 @@ body {
 
 .ChatChannelInputStatusBar-container {
     background-color: Black;
-    border-right: 1px solid rgba(163,163,172,.2);
-    border-left: 1px solid rgba(163,163,172,.2);
-    border-top: 1px solid rgba(163,163,172,.2);
+    border-right: 1px solid var(--contrast);
+    border-left: 1px solid var(--contrast);
+    border-top: 1px solid var(--contrast);
 }
 
 /* Chat Centers */
@@ -97,7 +97,7 @@ body {
 
 .OpenGraphEmbed-content {
     background-color: Black;
-    border: 1px solid rgba(163,163,172,.2);
+    border: 1px solid var(--contrast);
 }
 
 /* Chat Header */
@@ -113,16 +113,16 @@ body {
 }
 
 .Editor-container {
-    border-color: rgba(163,163,172,.2);
+    border-color: var(--contrast);
 }
 
 .PageSidebar-container {
     background-color: Black;
-    border-left: 1px solid rgba(163,163,172,.2);
+    border-left: 1px solid var(--contrast);
 }
 
 .SearchBarInput-container {
-    border: 1px solid rgba(163,163,172,.2);
+    border: 1px solid var(--contrast);
 }
 
 /* Right Side Bars */
@@ -130,7 +130,7 @@ body {
 .TeamPageSidebarMembersV2-container,
 .SidebarInfoItem-container {
     background-color: Black;
-    border: 1px solid rgba(163,163,172,.2);
+    border: 1px solid var(--contrast);
 }
 
 /* Options Menues */
@@ -142,8 +142,8 @@ body {
 }
 
 .OptionsMenu-options-control {
-    border-right: 1px solid rgba(163,163,172,.2);
-    border-left: 1px solid rgba(163,163,172,.2);
+    border-right: 1px solid var(--contrast);
+    border-left: 1px solid var(--contrast);
     margin-left: 25vw
 }
 
