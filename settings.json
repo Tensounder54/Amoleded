@@ -1,6 +1,11 @@
 {
-    "contrast": {
-        "name": "Contrast Color",
+    "primary": {
+        "name": "Primary Color",
+        "value": "#000000",
+        "type": "color"
+    },
+    "secondary": {
+        "name": "Secondary Color",
         "value": "#ececee",
         "type": "color"
     }
