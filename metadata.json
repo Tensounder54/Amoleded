@@ -1,7 +1,12 @@
 {
-    "id": "amoleded",
-    "name": "Amoleded",
-    "files": "amoleded.css",
     "author": "kdKjQl54",
-    "repoUrl": "https://github.com/Tensounder54/Amoleded"
+    "banner": "./amoleded_banner.png",
+    "contributors": [],
+    "description": "AMOLED + Guilded = Amoleded",
+    "files": "amoleded.css",
+    "id": "amoleded",
+    "images": ["./amoleded_screenshot.png"],
+    "name": "Amoleded",
+    "repoUrl": "https://github.com/Tensounder54/Amoleded",
+    "version": "1.0.4"
 }
