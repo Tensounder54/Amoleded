@@ -1,1 +1,6 @@
 @import url("https://tensounder54.github.io/reguilded/themes/amoleded/main.css");
+
+:root {
+    --primary: #ececee;
+    --secondary: #000000;
+}
