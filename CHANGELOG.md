@@ -1,5 +1,9 @@
 # Change Log
 
+### 0.3.1-beta
+
+- Fixed swapped colour issue introduced in 0.3.0-alpha.
+
 ### 0.3.0-beta
 
 - Fixed long standing issue requireing manual injection into the root.
@@ -18,7 +22,7 @@
 - Fixed a typo in top of page notice and fixes inline styling to not have a border.
 - Added fixes for most calendar related things.
 - Add right border to main pane in settings.
-- Fixed issue with center object in setting not desplaying correctly.   
+- Fixed issue with center object in setting not desplaying correctly.
 - Hotfix to add coloring into the core stylesheet.
 - Fixed issue with calendar elements hover.
 - Added options and calendar first pass.
